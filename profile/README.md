@@ -2,7 +2,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="PartiQL_Logo_Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="PartiQL_Logo_Light.svg">
-        <img src="PartiQL_Logo_Dark.svg" alt="PartiQL Logo" width="300" height="300">
+        <img src="PartiQL_Logo_Dark.svg" alt="PartiQL Logo" width="100" height="100">
     </picture>
 </p>
 
