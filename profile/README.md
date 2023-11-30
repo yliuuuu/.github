@@ -7,12 +7,12 @@
 </p>
 
 
-PartiQL is an expressive, SQL-compatible query language giving access to relational, semi-structured, and nested data. PartiQL is Open Sourced under PartiQL is open-sourced under the Apache 2.0 License. 
+PartiQL is an expressive, SQL-compatible query language giving access to relational, semi-structured, and nested data. PartiQL is open sourced under the Apache 2.0 License. 
 
 ## Contributions
 
-* If you have questions or ideas towards PartiQL as a Language, check out our [GitHub Discussion](https://github.com/orgs/partiql/discussions) forum.
-* Check out the [CONTRIBUTING.md](../CONTRIBUTING.md) file to learn how to contribute.
+* If you have questions or suggestions about the PartiQL Language, please check out our [GitHub Discussion](https://github.com/orgs/partiql/discussions) forum.
+* Please see the [CONTRIBUTING.md](../CONTRIBUTING.md) file to learn how to contribute.
 
 ## Resources
 - Two reference Implementations:  [PartiQL-Lang-Kotlin](https://github.com/partiql/partiql-lang-kotlin) and [PartiQL-Lang-Rust](https://github.com/partiql/partiql-lang-rust). 
