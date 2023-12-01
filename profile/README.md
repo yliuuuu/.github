@@ -7,7 +7,7 @@
 </p>
 
 
-PartiQL is an expressive, SQL-compatible query language giving access to relational, semi-structured, and nested data. PartiQL is open sourced under the Apache 2.0 License. 
+PartiQL is an expressive, SQL-compatible query language giving access to relational, semi-structured, and nested data.
 
 ## Contributions
 
